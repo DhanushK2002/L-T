@@ -15,6 +15,7 @@ public class LNT {
      */
     public static void main(String[] args) {
         System.out.println("Hello This is Team 3");
+        System.out.println("have a good day!");
         // TODO code application logic here
     }
     
