@@ -17,6 +17,7 @@ public class LNT {
         System.out.println("Hello This is Team 3");
         System.out.println("L-T project 2");
         System.out.println("have a good day!");
+         System.out.println("Github projects");
         // TODO code application logic here
     }
     
