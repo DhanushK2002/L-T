@@ -14,7 +14,7 @@ public class LNT {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello This is Dhansuh");
+        System.out.println("Hello This is Team 3");
         // TODO code application logic here
     }
     
